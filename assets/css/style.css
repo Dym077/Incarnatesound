@@ -4,6 +4,15 @@
     margin: 0;
     box-sizing:border-box;
 }
+
+/* General style rules*/
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #3a3a3a;
+}
+
 /* Header */
 header { 
     background-color: darkslategrey;
@@ -12,9 +21,11 @@ header {
 /* Main */
 main {
     background-color: black;
+    flex: 1 0 auto;
 }
 
 /* Footer */
 footer {
     background-color: white;
+    /* Push footer down to bottom */
 }
