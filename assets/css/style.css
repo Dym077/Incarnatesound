@@ -2,7 +2,7 @@
 * {
     padding: 0;
     margin: 0;
-    box-sizing:border-box;
+    box-sizing: border-box;
 }
 
 /* General style rules*/
@@ -11,17 +11,20 @@ body {
     display: flex;
     flex-direction: column;
     color: #fdfdfd;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 /* Header */
-header { 
+header {
     background-color: #ffffff;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #fdfdfd;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header a {
@@ -30,7 +33,7 @@ header a {
 }
 
 h1 {
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
@@ -42,14 +45,41 @@ h1 {
     list-style-type: none;
 
 }
+
 #menu > li {
     margin-bottom: 1em;
 }
 
-.active
-{
-border-bottom: 1px solid #252525;
+.active {
+    border-bottom: 1px solid #252525;
 
+}
+
+/* Navbar styles w dropdown toggle*/
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 3px 3px #3a3a3a;
+    display: none;
+    top: 100%;
+}
+
+/* Nav-toggle */
+
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+
+}
+
+.nav-toggle-label {
+font-size: 2rem;
 }
 
 /* Main */
@@ -61,6 +91,6 @@ main {
 
 /* Footer */
 footer {
-    background-color:darkslategrey;
-    
+    background-color: darkslategrey;
+
 }
