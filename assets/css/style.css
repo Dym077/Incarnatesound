@@ -11,6 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     color: #3a3a3a;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 /* Header */
@@ -21,11 +22,12 @@ header {
 /* Main */
 main {
     background-color: black;
+    /* Push footer down to bottom */
     flex: 1 0 auto;
 }
 
 /* Footer */
 footer {
     background-color: white;
-    /* Push footer down to bottom */
+    
 }
