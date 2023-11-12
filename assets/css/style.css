@@ -24,8 +24,32 @@ header {
     box-shadow: 0 2px 2px #fdfdfd;
 }
 
+header a {
+    text-decoration: none;
+    color: darkslategray;
+}
+
 h1 {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
+}
+
+#menu {
+    font-size: 105%;
+    letter-spacing: 4px;
+    list-style-type: none;
+
+}
+#menu > li {
+    margin-bottom: 1em;
+}
+
+.active
+{
+border-bottom: 1px solid #252525;
+
 }
 
 /* Main */
