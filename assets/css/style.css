@@ -10,7 +10,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: #3a3a3a;
+    color: #fdfdfd;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
@@ -32,6 +32,6 @@ main {
 
 /* Footer */
 footer {
-    background-color: white;
+    background-color:darkslategrey;
     
 }
