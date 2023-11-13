@@ -14,6 +14,15 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
+h1,
+h2,
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -32,12 +41,6 @@ header a {
     color: darkslategray;
 }
 
-h1 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #252525;
-}
 
 #menu {
     font-size: 105%;
@@ -84,7 +87,7 @@ nav {
 
 /* Main */
 main {
-    
+
     /* Push footer down to bottom */
     flex: 1 0 auto;
     margin-top: 47px;
@@ -95,6 +98,24 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/hero.jpg") no-repeat center center/cover;
+    position: relative;
+
+}
+
+#cover-text {
+    /* Final rbga value sets opacity of the background */
+    background-color: rgba(120, 5, 36, .8);
+    font-size: 110%;
+    position: absolute;
+    top: 40px;
+    width: 70%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+
+#cover-text > h2, #cover-text > h3 {
+    color: #ffffff;
 }
 
 /* Footer */
@@ -147,6 +168,11 @@ main {
     main {
         /* Push main content down to accomodate larger header */
         margin-top: 79px;
+    }
+    /* Hero */
+    #cover-text {
+        width: 300px;
+        right: 50px;
     }
 }
 
