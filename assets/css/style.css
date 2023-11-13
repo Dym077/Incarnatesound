@@ -118,6 +118,21 @@ main {
     color: #ffffff;
 }
 
+#about {
+    width: 90%;
+    margin: auto;
+    margin: 20px;
+    margin-bottom: 20px;
+}
+#location {
+    line-height: 20px;
+
+}
+
+#underline {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
 /* Footer */
 #social-networks {
     text-align: center;
