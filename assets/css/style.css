@@ -67,7 +67,7 @@ nav {
     top: 100%;
 }
 
-/* Nav-toggle */
+/* Nav-toggle FIX MEDIA QUERY FOR LARGE SCREENS-MAKE ICON DISAPPEAR! */
 
 #nav-toggle:checked~nav {
     display: block;
