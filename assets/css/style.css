@@ -114,18 +114,35 @@ main {
     padding-left: 10px;
 }
 
-#cover-text > h2, #cover-text > h3 {
+#cover-text>h2,
+#cover-text>h3 {
     color: #ffffff;
 }
 
 /* About section (rudimentary- study source code to refine */
 
-#about {
-    width: 90%;
-    margin: auto;
-    margin: 20px;
+h2 {
     margin-bottom: 20px;
 }
+
+.about {
+    width: 90%;
+    text-align: left;
+    line-height: 20px;
+    margin: 120px auto;
+    padding: 0 20px;
+}
+
+/* .blur {
+    background: url("../images/hero.jpg") no-repeat center center/cover;
+    height: 600px;
+    width: 100%;
+    position: relative;
+    -webkit-filter: blur(5px);
+    filter: blur(5px);
+
+}
+*/
 #location {
     line-height: 20px;
 
@@ -135,6 +152,17 @@ main {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
+
+#hardware {
+    margin: 20px auto;
+    background-color: indianred;
+}
+
+#software {
+    margin: 20px auto;
+    background-color:aquamarine;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
@@ -186,6 +214,7 @@ main {
         /* Push main content down to accomodate larger header */
         margin-top: 79px;
     }
+
     /* Hero */
     #cover-text {
         width: 300px;
