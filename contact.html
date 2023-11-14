@@ -32,7 +32,38 @@
             </ul>
         </nav>
     </header>
-    <main>Main Content</main>
+    <main>
+        <section id="contact">
+            <form id="contact-form" method="POST" action="https://formdump.codeinstitute.net">
+                <i class="fa-solid fa-mobile-screen"></i>
+                <heading>Get in touch!</heading>
+                <label for="first_name">First Name</label>
+                <input type="text" name="first_name" id="first_name" class="text-input" required>
+                    <br>
+                    <label for="last_name">Last Name</label>
+                    <input type="text" name="last_name" id="last_name" class="text-input" required>
+                        <br>
+                        <label for="email_address">Email Address</label>
+                        <input type="email" name="email_address" id="email_address" class="text-input" required>
+                            <br>
+                            <div class="radio-buttons"></div>
+                            <div>
+                                <label for="info">Info</label>
+                                <input type="radio" name="contact_preference" id="info" value="info" required checked>
+                            </div>
+                            <div>
+                                <label for="session">Session</label>
+                                <input type="radio" name="contact_preference" id="session" value="session" required
+                                checked>
+                            </div>
+                            <div>
+                                <label for="both">Both</label>
+                                <input type="radio" name="contact_preference" id="both" value="both" required checked>
+                            </div>
+                            <button type="submit" class="contact-button">Get in touch</button>
+            </form>
+        </section>
+    </main>
     <footer>
         <ul id="social-networks">
             <li><a href="https://www.facebook.com/incarnatesound?locale=sv_SE" target="_blank" rel="noopener"
