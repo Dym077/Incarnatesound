@@ -163,10 +163,10 @@ main {
     max-width: 400px;
     position: absolute;
     left: 20%;
-    top: 50px;
+    top: 5px;
 }
 
-/* Hero section (Try using another picture or make image responive to screen size */
+/* Hero section (Try making image more responive to screen size */
 #hero {
     height: 600px;
     width: 100%;
