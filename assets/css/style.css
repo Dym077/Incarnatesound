@@ -183,14 +183,28 @@ main {
     top: 40px;
     width: 70%;
     min-height: 200px;
-    padding-top: 40px;
-    padding-left: 10px;
+    padding: 40px 0px 0px 10px;
 }
 
 #cover-text>h2,
 #cover-text>h3 {
     color: #ffffff;
 }
+/*Media query needed to make this paragraph responive to smaller screens */
+#sub-div {
+    /* Final rbga value sets opacity of the background */
+       background-color: rgba(0, 100, 34, .7);
+       font-size: 115%;
+       color:#ffffff;
+       text-align: center;
+       position: absolute;
+       left: 30%;
+       bottom: 60px;
+       width: 30%;
+       min-height: 100px;
+       padding: 20px 30px 30px 20px;
+          
+   }
 
 /* About section (rudimentary- study source code to refine */
 
