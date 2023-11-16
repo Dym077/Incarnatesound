@@ -116,7 +116,7 @@ main {
 
 #contact-form > h2 {
     color: #fafafa;
-    margin-bottom: 20px;
+    margin: 12px 0px;
 }
 
 .text-input {
@@ -209,12 +209,13 @@ main {
 /* About section (rudimentary- study source code to refine */
 
 h2 {
-    margin-bottom: 20px;
+    margin: 20px 0px 10px 0px;
+    
 }
 
 .background {
     background: url("../images/20231116_113325.jpg") no-repeat center center/cover;
-    height: 550px;
+    height: 820px;
     width: 100%;
     position: absolute;
     filter: blur(5px); 
@@ -232,23 +233,43 @@ h2 {
     color:bisque;
 }
 
-.text-container >h3 {
-    color:#9e6464;
+h3 {
+
+    color:rgb(203, 224, 251);
+    margin: 20px 0px;
+    
 }
 
 #underline {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
+    
+}
+
+#history {
+
+    margin: 10px 40px;
+}
+
+#vision {
+
+    margin: 10px 40px;
+}
+
+#location {
+    margin: 10px 40px;
 }
 
 #hardware {
-    margin: 20px auto;
+    margin: 0px 40px;
     background-color: indianred;
+    padding: 10px;
 }
 
 #software {
-    margin: 20px auto;
-    background-color:aquamarine;
+    margin: 0px 40px;
+    background-color:rgb(77, 88, 239);
+    padding: 10px;
 }
 
 /* Footer */
