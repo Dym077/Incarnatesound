@@ -101,7 +101,7 @@ main {
 }
 
 #contact {
-    background-image: url("../images/contact.jpg");
+    background-image: url("../images/contact.webp");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -170,7 +170,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url("../images/hero.jpg") no-repeat center center/cover;
+    background: url("../images/hero.webp") no-repeat center center/cover;
     position: relative;
 
 }
@@ -214,7 +214,7 @@ h2 {
 }
 
 .background {
-    background: url("../images/20231116_113325.jpg") no-repeat center center/cover;
+    background: url("../images/about-bg.webp") no-repeat center center/cover;
     height: 780px;
     width: 100%;
     position: absolute;
