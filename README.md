@@ -20,21 +20,24 @@ The design of the website has the goal to inspire the user to be creative with t
 
 ### Choice of colours
 
-A careful choice of colours have been used to provide maximum readability, while maintaining the professional feel. 
+A careful choice of colours have been used to provide maximum accessibility, while maintaining the professional feel of the website. The user can enjoy an experience which is smooth on the eye and also clearly displays the message of the site. When clicking on the links, the user will feel that You are still on the same site, so the colour palette is homogenous and balanced.
 
 ### Choice of fonts
 
-Some clean sans-serif fonts were used to provide a readable text.
+Some clean sans-serif fonts were used to provide a readable text. The choice of these fonts was based on the goal to provide maximum readability and a professional feel. More ecclectic fonts may sometimes confuse a user or provide a less serious feel.
 
 ## Wireframes
 
-All wireframes were produced with Balsamiq.
+The wireframes produced with Balsamiq.
 
 ![1 Home](https://github.com/Dym077/Incarnatesound/assets/147504788/a74e2d6f-20c0-4865-9ee3-20a2ca5a66d3)
 ![About](https://github.com/Dym077/Incarnatesound/assets/147504788/782ba312-19cf-4290-b359-ab8f0065fea5)
 ![Contact](https://github.com/Dym077/Incarnatesound/assets/147504788/45ca6b83-3825-4891-afe6-e088efb50bec)
 
-
+The wireframes from paper:
+![Alt text](assets/images/20231113_142114.jpg)
+![Alt text](assets/images/20231113_142126.jpg)
+![Alt text](assets/images/20231113_142151.jpg)
 ## Features
 
 * Navigation
@@ -48,16 +51,18 @@ All wireframes were produced with Balsamiq.
 ## Testing
 ### Validator testing
 *HTML
+No errors were returned when running the code through the W3C Markup Validator.
 *CSS
+No errors were returned when running the code through the W3C CSS Validator.
 *Accessibility
-
+The site achieved a Lighthouse accessibility score of 100% which assures that the choice of colours and fonts are easy to read and access. 
 ### Form testing
-*
+*The form was tested to ensure that no submission will happen without the required input fields being filled in by the user.
 ### Links testing
-*
-*
+*All links have been tested to ensure that the correct section of the wesite will open when the user clicks the links. 
+*Social media links have been tested to ensure that the user will be directed to the correct site and that the link will open in a new tab.
 ### Browser testing
-*
+*The site was tested with Google Chrome,
 ### Device testing
 *
 ### User testing
@@ -72,11 +77,15 @@ All wireframes were produced with Balsamiq.
 *HTML
 *CSS
 ## Frameworks - Libraries - Programs Used
-*Balsamiq
-*Chrome Dev Tools
-*Github
-*Gitpod
-*Font Awesome
+- [Am I Responsive](http://ami.responsivedesign.is/) - Main tool for testing responsiveness of the site on different devices.
+- [Responsinator](http://www.responsinator.com/) - Alternative tool for testing responsiveness of the site on different devices.
+- [Balsamiq](https://balsamiq.com/) - Used to generate basic wireframe images.
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) - Used for development, element inspection and tweaking as well as testing of site.
+- [Font Awesome](https://fontawesome.com/) - Provides all icons used in footer.
+- [GitHub](https://github.com/) - For hosting and version control.
+- [Google Fonts](https://fonts.google.com/) - Used to import additional fonts to the project.
+- [TinyPNG](https://tinypng.com/) - To compress image files to reduce file size without losing quality.
+- [W3C](https://www.w3.org/) - Used for HTML & CSS Validation.
 
 # Deployment
 
