@@ -43,8 +43,13 @@ The wireframes from paper:
 * Navigation
 
 * Landing page
+- The landing page displays a panorama of the studio in a dim light, which provides an inspiring and welcoming feeling to the user. 
 * About section
+- The About section is separated in two different sections:
+- About Us, which gives a brief history of how the company was founded, as well as the location of the studio and the company's vision.
+- The studio and the tools which are available to the client. 
 * Contact form section
+- This section provdes an easy-to-fill-in form for the user to get in touch with the company. The user can choose either to receive information about the studio or to reach out to book a session or both. 
 * Footer
 - The footer houses the social media links where the user can interact with the studio. The links available are for Facebook, Bandcamp, Youtube and Soundcloud and are opened in new tabs.
 ### Features left to implement
@@ -55,7 +60,7 @@ The wireframes from paper:
 *HTML
 - No errors were returned when running the code through the W3C Markup Validator.
 *CSS
-- No errors were returned when running the code through the W3C CSS Validator.
+- No errors were returned when running the code through the W3C CSS Validator. 
 - Accessibility
 The site achieved a Lighthouse accessibility score of 100% which assures that the choice of colours and fonts are easy to read and access. 
 ### Form testing
@@ -78,6 +83,7 @@ The site achieved a Lighthouse accessibility score of 100% which assures that th
 ### Known bugs
 
  # Techologies used
+ 
  ## Languages
 *HTML
 *CSS
