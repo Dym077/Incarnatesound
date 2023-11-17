@@ -231,6 +231,7 @@ h2 {
 .text-container>h2 {
 
     color:bisque;
+    background-color: #252525;
 }
 
 h3 {
@@ -254,10 +255,14 @@ h3 {
 #vision {
 
     margin: 10px 40px;
+    background-color: #252525;
+    padding: 10px 20px;
 }
 
 #location {
     margin: 10px 40px;
+    background-color: #252525;
+    padding: 10px 20px;
 }
 
 #hardware {

@@ -16,7 +16,7 @@
   
 ## Design 
 
-- The design of the website has the goal to inspire the user to be creative with their craft. The visitor should feel that the clean look and clear messages on the site are inviting and friendly, as well as professional. As a working or aspiring musician, You should feel that You are welcomed into an anvironment that lets You create freely and comfortably. 
+- The design of the website has the goal to inspire the user to be creative with their craft. The visitor should feel that the clean look and clear messages on the site are inviting and friendly, as well as professional. As a working or aspiring musician, the user should feel that one is welcomed into an environment that lets You create freely and comfortably. 
 
 ### Choice of colours
 
