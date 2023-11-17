@@ -190,23 +190,24 @@ main {
 #cover-text>h3 {
     color: #ffffff;
 }
-/*Media query needed to make this paragraph responive to smaller screens */
+
 #sub-div {
     /* Final rbga value sets opacity of the background */
        background-color: rgba(0, 100, 34, .7);
-       font-size: 115%;
+       font-size: 95%;
        color:#ffffff;
        text-align: center;
        position: absolute;
-       left: 30%;
+       left: 20%;
        bottom: 60px;
-       width: 30%;
+       width: 80%;
        min-height: 100px;
-       padding: 20px 30px 30px 20px;
+       max-height: 250px;
+       padding: 10px 30px 30px 20px;
           
    }
 
-/* About section (rudimentary- study source code to refine */
+/* About section  */
 
 h2 {
     margin: 20px 0px 10px 0px;
@@ -303,6 +304,10 @@ h3 {
         box-shadow: none;
         width: fit-content;
         padding-right: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
     }
 
     #menu {
