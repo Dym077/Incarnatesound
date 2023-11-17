@@ -76,7 +76,7 @@ The site achieved a Lighthouse accessibility score of 100% which assures that th
 - [Am I Responsive?](https://ui.dev/amiresponsive?url=https://dym077.github.io/Incarnatesound/)
 
 ### User testing
-*
+- Friends and family members were asked to test and review the site on different devices to find any bugs or issues.
 ### Fixed bugs
 #### 
 *
@@ -99,13 +99,29 @@ The site achieved a Lighthouse accessibility score of 100% which assures that th
 - [W3C](https://www.w3.org/) - Used for HTML & CSS Validation.
 
 # Deployment
+This project was deployed using GitHub. To access the website through GitHub, follow these steps:
+
+1. Navigate to the repository on GitHub.com
+2. Select 'Settings'.
+3. Navigate to 'Pages' from the menu bar on the left of the page.
+4. Find 'Branch' dropdown menu and select the main branch.
+5. Select the main branch and click 'Save'.
+6. Deployment should be confirmed by a message on a green background       saying "Your site is published at",  followed by the web address.
 
 # Credits
 
 ## Content
-
+The following web pages were visited for inspiration and tips:
+- [Tilt Recordings](https://www.tiltrecordings.com/)
+- [Helter Skelter ](https://www.helterskelter.se/?gclid=CjwKCAiAu9yqBhBmEiwAHTx5pzoU7M2d8jGHaMvvH9QWvuFrVPB_RPfqhCJtevS6EQIJA4ZnUDJpPhoC5JUQAvD_BwE)
+- [Tropiklal Studios](https://www.tropikal.se/?gclid=CjwKCAiAu9yqBhBmEiwAHTx5p6oyeOLfh9u9W-rQKU0iBmpBvZN8kkuRbbnTlPY9gJKhzNlH0oKkLhoC4jYQAvD_BwE)
+- [Danmalschmusic.com](https://www.danmalschmusic.com/?gclid=CjwKCAiAu9yqBhBmEiwAHTx5pzDS6S-EzszcWTksEHfduZj_oMMiEPm-OADPqgFWfgN_G9aJCcqsChoCrukQAvD_BwE)
+- [Soundmine Recording Studio](https://www.soundminerecordingstudio.com/about.html)
+- [Nicelabs](https://www.nicelabs.at/)
 ## Media
-
+- All visual media was from the creator's private image library.
 ## Resources
 
 # Acknowledgements
+My mentor Antonio for all his support and useful advice.
+The Code Institute Slack community which has been a very useful source of information and advice on coding and fixes. 
