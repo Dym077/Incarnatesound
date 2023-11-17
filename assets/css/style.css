@@ -135,16 +135,25 @@ main {
     display: flex;
     justify-content: space-between;
 }
-
+.contact-button {
+    height: 40px;
+    width: 120px;
+    border-bottom-color: #252525;
+    text-align: center;
+    margin-top: 15px;
+    background-color: #fafafa;
+}
+/*Contact button 
 #contact-button {
     margin-top: 20px;
     border-radius: 2px;
     padding: 15px 30px;
     font-size: 100%;
     background-color: #454684;
-    color: #fafafa;
+    color: #fafafa; 
+   
 }
-
+*/
 #contact {
     background-position: center;
     position: relative;
@@ -157,6 +166,7 @@ main {
 .contact-button:hover {
     background-color: #fafafa;
     color: #454684;
+
 }
 
 #contact-form {
