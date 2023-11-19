@@ -44,14 +44,22 @@ The wireframes from paper:
 
 * Landing page
 - The landing page displays a panorama of the studio in a dim light, which provides an inspiring and welcoming feeling to the user. 
+
+![Landing Page Image](assets/images/landingpage.png)
 * About section
 - The About section is separated in two different sections:
 - About Us, which gives a brief history of how the company was founded, as well as the location of the studio and the company's vision.
 - The studio and the tools which are available to the client. 
+
+![About Page Image](assets/images/aboutpage.png)
+
 * Contact form section
 - This section provdes an easy-to-fill-in form for the user to get in touch with the company. The user can choose either to receive information about the studio or to reach out to book a session or both. 
+![Contact Form Section](assets/images/contactpage.png)
+
 * Footer
 - The footer houses the social media links where the user can interact with the studio. The links available are for Facebook, Bandcamp, Youtube and Soundcloud and are opened in new tabs.
+![Footer Image](assets/images/footer.png)
 ### Features left to implement
 - A gallery page with images from the studio.
 
