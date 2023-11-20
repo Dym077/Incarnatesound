@@ -122,13 +122,16 @@ This project was deployed using GitHub. To access the website through GitHub, fo
 The following web pages were visited for inspiration and tips:
 - [Tilt Recordings](https://www.tiltrecordings.com/)
 - [Helter Skelter ](https://www.helterskelter.se/?gclid=CjwKCAiAu9yqBhBmEiwAHTx5pzoU7M2d8jGHaMvvH9QWvuFrVPB_RPfqhCJtevS6EQIJA4ZnUDJpPhoC5JUQAvD_BwE)
-- [Tropiklal Studios](https://www.tropikal.se/?gclid=CjwKCAiAu9yqBhBmEiwAHTx5p6oyeOLfh9u9W-rQKU0iBmpBvZN8kkuRbbnTlPY9gJKhzNlH0oKkLhoC4jYQAvD_BwE)
+- [Tropikal Studios](https://www.tropikal.se/?gclid=CjwKCAiAu9yqBhBmEiwAHTx5p6oyeOLfh9u9W-rQKU0iBmpBvZN8kkuRbbnTlPY9gJKhzNlH0oKkLhoC4jYQAvD_BwE)
 - [Danmalschmusic.com](https://www.danmalschmusic.com/?gclid=CjwKCAiAu9yqBhBmEiwAHTx5pzDS6S-EzszcWTksEHfduZj_oMMiEPm-OADPqgFWfgN_G9aJCcqsChoCrukQAvD_BwE)
 - [Soundmine Recording Studio](https://www.soundminerecordingstudio.com/about.html)
 - [Nicelabs](https://www.nicelabs.at/)
 ## Media
 - All visual media was from the creator's private image library.
 ## Resources
+The following online resources were utilized to access additional information:
+- [Stack overflow](https://stackoverflow.com/)
+- [W3Schools](https://www.w3schools.com/)
 
 # Acknowledgements
 My mentor Antonio for all his support and useful advice.
