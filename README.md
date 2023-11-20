@@ -35,9 +35,9 @@
 ![Contact](https://github.com/Dym077/Incarnatesound/assets/147504788/45ca6b83-3825-4891-afe6-e088efb50bec)
 
 The wireframes from paper:
-![Alt text](assets/images/20231113_142114.jpg)
-![Alt text](assets/images/20231113_142126.jpg)
-![Alt text](assets/images/20231113_142151.jpg)
+![Alt text](assets/images/home_pen.jpg)
+![Alt text](assets/images/about_pen.jpg)
+![Alt text](assets/images/contact_pen.jpg)
 ## Features
 
 * Navigation

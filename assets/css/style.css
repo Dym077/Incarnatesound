@@ -113,6 +113,9 @@ main {
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.6);
     padding: 30px;
+    max-width: 400px;
+    position: relative;
+    left: 10%;
     
 }
 
@@ -159,13 +162,6 @@ main {
     background-color: #fafafa;
     color: #454684;
 
-}
-
-#contact-form {
-    max-width: 400px;
-    position: absolute;
-    left: 10%;
-    top: 2px;
 }
 
 /* Hero section (Try making image more responive to screen size */
