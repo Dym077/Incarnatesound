@@ -108,15 +108,17 @@ main {
     flex-grow: 1;
 }
 
+/* Form */
 #contact-form {
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.6);
     padding: 30px;
+    
 }
 
 #contact-form>h2 {
     color: #fafafa;
-    margin: 12px 0px;
+    margin-bottom: auto;
 }
 
 .text-input {
