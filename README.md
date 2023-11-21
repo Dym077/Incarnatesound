@@ -20,11 +20,11 @@
 
 ### Choice of colours
 
-- A careful choice of colours have been used to provide maximum accessibility, while maintaining the professional feel of the website. The user can enjoy an experience which is smooth on the eye and also clearly displays the message of the site. When clicking on the links, the user will feel that You are still on the same site, so the colour palette is homogenous and balanced.
+- A careful palette of colours have been used to provide maximum accessibility, while maintaining the professional feel of the website. The user can enjoy an experience which is smooth on the eye and also clearly displays the message of the site. On the landing page, both green and red are used as background colours for the sections with text. The green resembles the soothing feeling You get when accomplishing Your goal, as well as indicating the project has been "greenlit". The red is a good complement to the green, and indicate both importance and a bit of urgency. It also suits the background well, given a slight transparant character.
 
 ### Choice of fonts
 
-- Some clean sans-serif fonts were used to provide a readable text. The choice of these fonts was based on the goal to provide maximum readability and a professional feel. More ecclectic fonts may sometimes confuse a user or provide a less serious feel.
+- Some clean sans-serif fonts were used to provide a highly readable text. The choice of these fonts was based on the goal to provide maximum readability and a professional feel. More ecclectic fonts may sometimes confuse a user or provide a less serious feel. Fonts such as 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva and Verdana, sans-serif, are fonts which are very easily accessible and translates well on most devices and screens. 
 
 ## Wireframes
 
