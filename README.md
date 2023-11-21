@@ -79,7 +79,12 @@ The site achieved a Lighthouse accessibility score of 100% which assures that th
 ### Browser testing
 - The site was tested with Google Chrome,
 ### Device testing
-- The site has been tested with Chrome Developer Tools for its responsiveness on different devices, such as mobile phones, tablets, laptops and desktops. The following apps were also utilized to check the website on different screen-sizes:
+- The site has been tested with Chrome Developer Tools for its responsiveness on different devices, such as mobile phones, tablets, laptops and desktops. 
+Lighthouse testing delivered the following results:
+![Lighthouse Home](assets/images/lighthouse_home.png)
+![Lighthouse Home](assets/images/lighthouse_about.png)
+![Lighthouse Home](assets/images/lighthouse_contact.png)
+The following apps were also utilized to check the website on different screen-sizes:
 - [Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Fdym077.github.io%2FIncarnatesound%2F)
 - [Am I Responsive?](https://ui.dev/amiresponsive?url=https://dym077.github.io/Incarnatesound/)
 
