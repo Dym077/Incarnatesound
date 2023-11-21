@@ -15,8 +15,8 @@ body {
 }
 
 h1,
-h2,
-h3 {
+h2
+ {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -164,7 +164,7 @@ main {
 
 }
 
-/* Hero section (Try making image more responive to screen size */
+/* Hero section */
 #hero {
     height: 600px;
     width: 100%;
@@ -237,7 +237,7 @@ h2 {
 h3 {
 
     color: rgb(203, 224, 251);
-    margin: 20px 0px;
+    margin: 20px 10px;
 
 }
 
