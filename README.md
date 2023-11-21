@@ -13,6 +13,21 @@
 * Complete list of both outboard gear and virtual tools.
 * Coffee is included in all booked sessions.
 * Easy navigation and full responiveness with all devices.
+
+## User Stories
+* First time user
+- A first time user should get all necessary info to make a decision if the sevices available on the site are sufficient and reliable and that he or she can get in touch, either to require further info or book a session. 
+- A first time user will feel confident with the navigation on the page and can easily acquire the material provided. 
+- A first time user will also be able to receive tips and tricks for their own projects, without utilizing the studio.
+- A first time user will be able to follow the links in the footer to hear sound clips, watch videos and find useful information related to music recording and production.
+* Returning user
+- As a returning user You can receive valuable resources, both for Your own musical projects, as well as for Your instruments. 
+- A returning user can receive sound libraries from the studio, as well as music and sound production techniques via e-mail. 
+- As a returning user You can also follow the links in the footer to look for updates, listen to new music and find useful tips to boost Your own creativity.
+* Frequent user
+- A frequent user will be confident in finding all resources and navigating the page, as well as being aware of any updates or changes. 
+- As a frequent user, You can engage in dialogue with the studio, sharing Your own successes and experiences. 
+- A frequent user can sign up for a weekly newsletter with exclusive tips and tricks in recording music and sounds, as well as recommendations to other sources of information.
   
 ## Design 
 
