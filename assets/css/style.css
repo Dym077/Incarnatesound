@@ -207,7 +207,7 @@ main {
 /* About section  */
 
 h2 {
-    margin: 25px 40px;
+    margin: 10px 25px 10px 10px;
 
 }
 
@@ -230,6 +230,7 @@ h2 {
 
     color: bisque;
     background-color: rgba(23, 23, 23, 0.9);
+    margin: 5px 40px;
     
 }
 
