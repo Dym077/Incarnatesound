@@ -92,9 +92,9 @@ The following apps were also utilized to check the website on different screen-s
 - Friends and family members were asked to test and review the site on different devices to find any bugs or issues.
 ### Fixed bugs
 #### 
-*
+*Fixed a problem where the margin of the header didn't adjust due to duplicats of the h2 element where values were overridden. 
 ### Known bugs
-
+*No current known bugs.
  # Techologies used
  
  ## Languages
