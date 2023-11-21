@@ -78,7 +78,7 @@ The site achieved a Lighthouse accessibility score of 100% which assures that th
 - All links have been tested to ensure that the correct section of the wesite will open when the user clicks the links. 
 - Social media links have been tested to ensure that the user will be directed to the correct site and that the link will open in a new tab.
 ### Browser testing
-- The site was tested with Google Chrome, Microsoft Edge
+- The site was tested with Google Chrome, Microsoft Edge, Mozilla Firefox and Safari.
 ### Device testing
 - The site has been tested with Chrome Developer Tools for its responsiveness on different devices, such as mobile phones, tablets, laptops and desktops. 
 Lighthouse testing delivered the following results:
@@ -95,7 +95,7 @@ The following apps were also utilized to check the website on different screen-s
 #### 
 * Fixed a problem where the margin of the header didn't adjust due to duplicats of the h2 element where values were overridden. 
 ### Known bugs
-* No current known bugs.
+* The text "Get in touch" seems to be invisible on the "submit"-button with some iPhone models, as iPhone 11 Pro.
  # Techologies used
  
  ## Languages
