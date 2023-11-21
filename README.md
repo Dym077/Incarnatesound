@@ -65,9 +65,9 @@ The wireframes from paper:
 
 ## Testing
 ### Validator testing
-*HTML
+* HTML
 - No errors were returned when running the code through the W3C Markup Validator.
-*CSS
+* CSS
 - No errors were returned when running the code through the W3C CSS Validator. 
 - Accessibility
 The site achieved a Lighthouse accessibility score of 100% which assures that the choice of colours and fonts are easy to read and access. 
@@ -77,7 +77,7 @@ The site achieved a Lighthouse accessibility score of 100% which assures that th
 - All links have been tested to ensure that the correct section of the wesite will open when the user clicks the links. 
 - Social media links have been tested to ensure that the user will be directed to the correct site and that the link will open in a new tab.
 ### Browser testing
-- The site was tested with Google Chrome,
+- The site was tested with Google Chrome, Microsoft Edge
 ### Device testing
 - The site has been tested with Chrome Developer Tools for its responsiveness on different devices, such as mobile phones, tablets, laptops and desktops. 
 Lighthouse testing delivered the following results:
@@ -92,9 +92,9 @@ The following apps were also utilized to check the website on different screen-s
 - Friends and family members were asked to test and review the site on different devices to find any bugs or issues.
 ### Fixed bugs
 #### 
-*Fixed a problem where the margin of the header didn't adjust due to duplicats of the h2 element where values were overridden. 
+* Fixed a problem where the margin of the header didn't adjust due to duplicats of the h2 element where values were overridden. 
 ### Known bugs
-*No current known bugs.
+* No current known bugs.
  # Techologies used
  
  ## Languages
