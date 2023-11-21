@@ -1,7 +1,6 @@
 # Incarnate Sound Studios
-![Landing page image](assets/images/landingpage.png)
-
 - Incarnate Sound Studios is a website presenting a local recording studio in Kristianstad, Sweden. The goal of the site is to direct aspiring musicians to the studio and provide different services e. g. tracking instruments and vocals as well as mixing and mastering of songs. The site displays what kind of services that are available to the client and how to get in touch. There's also a list of gear and musical tools that the client will have access to during booked sessions. The live site can be visited via [this link.](https://dym077.github.io/Incarnatesound/index.html)
+![Landing page image](assets/images/amiresponivehome.png)
 
 ## Site goals
 
