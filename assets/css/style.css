@@ -216,7 +216,7 @@ h2 {
     height: 780px;
     width: 100%;
     position: absolute;
-    filter: blur(5px);
+    filter: blur(9px);
     z-index: -1;
 
 }
@@ -249,19 +249,19 @@ h3 {
 
 #history {
 
-    margin: 10px 40px;
+    margin: 30px 40px;
 }
 
 #vision {
 
     margin: 10px 40px;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(60, 60, 60, 0.9);
     padding: 10px 20px;
 }
 
 #location {
     margin: 10px 40px;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(60, 60, 60, 0.9);
     padding: 10px 20px;
 }
 
