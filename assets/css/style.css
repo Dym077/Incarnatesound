@@ -278,6 +278,11 @@ h3 {
 }
 
 /* Gallery */
+#gallery-heading {
+    background-color:rgba(0, 100, 34, 0.7);
+    padding: 40px;
+}
+
 #gallery {
     background-color: #3a3a3a;
 }
@@ -289,6 +294,13 @@ h3 {
 #photos {
     line-height: 0;
 
+}
+
+#image-description {
+   background-color:indianred;
+   margin: 10px 120px;
+   text-align: center;
+   padding: 20px;
 }
 
 
