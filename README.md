@@ -103,6 +103,7 @@ The site achieved a Lighthouse accessibility score of 100% which assures that th
 Lighthouse testing delivered the following results:
 ![Lighthouse Home](assets/images/lighthouse_home.png)
 ![Lighthouse Home](assets/images/lighthouse_about.png)
+![Lighthouse Home](assets/images/lighthouse_gallery.png)
 ![Lighthouse Home](assets/images/lighthouse_contact.png)
 The following apps were also utilized to check the website on different screen-sizes:
 - [Responsinator](http://www.responsinator.com/?url=https%3A%2F%2Fdym077.github.io%2FIncarnatesound%2F)
@@ -157,6 +158,7 @@ The following web pages were visited for inspiration and tips:
 The following online resources were utilized to access additional information:
 - [Stack overflow](https://stackoverflow.com/)
 - [W3Schools](https://www.w3schools.com/)
+- [CSS Tricks](https://css-tricks.com/)
 
 # Acknowledgements
 My mentor Antonio for all his support and useful advice.
