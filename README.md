@@ -67,6 +67,11 @@ The wireframes from paper:
 - The studio and the tools which are available to the client. 
 
 ![About Page Image](assets/images/aboutpage.png)
+* Gallery section
+- The gallery section displays the studio layout and the instruments and tools available.
+- The gallery is displayed in columns which will respond to the screen size of the device used. 
+
+![Gallery Page Image](assets/images/gallery_page.png)
 
 * Contact form section
 - This section provdes an easy-to-fill-in form for the user to get in touch with the company. The user can choose either to receive information about the studio or to reach out to book a session or both. 
