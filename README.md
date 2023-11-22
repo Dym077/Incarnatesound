@@ -39,7 +39,7 @@
 
 ### Choice of fonts
 
-- Some clean sans-serif fonts were used to provide a highly readable text. The choice of these fonts was based on the goal to provide maximum readability and a professional feel. More ecclectic fonts may sometimes confuse a user or provide a less serious feel. Fonts such as 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva and Verdana, sans-serif, are fonts which are very easily accessible and translates well on most devices and screens. 
+- The site utilizes some well known sans-serif fontss. The choice of these fonts was based on the goal to provide maximum readability and a professional feel. More ecclectic fonts may sometimes confuse a user or provide a less serious feel. Fonts such as 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva and Verdana, sans-serif, are fonts which are very easily accessible and translates well on most devices and screens. 
 
 ## Wireframes
 
@@ -119,8 +119,8 @@ The following apps were also utilized to check the website on different screen-s
  # Techologies used
  
  ## Languages
-*HTML
-*CSS
+* HTML
+* CSS
 ## Frameworks - Libraries - Programs Used
 - [Am I Responsive](http://ami.responsivedesign.is/) - Main tool for testing responsiveness of the site on different devices.
 - [Responsinator](http://www.responsinator.com/) - Alternative tool for testing responsiveness of the site on different devices.
