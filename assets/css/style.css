@@ -280,7 +280,11 @@ h3 {
 /* Gallery */
 
 #gallery {
-    background-color: #3a3a3a;
+    background-color: #000000;
+}
+#welcome {
+    color:#fdfdfd;
+    text-align: center;
 }
 #photos img {
     width: 100%;
