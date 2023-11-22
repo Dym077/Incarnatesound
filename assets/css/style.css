@@ -278,7 +278,9 @@ h3 {
 }
 
 /* Gallery */
-
+#gallery {
+    background-color: #3a3a3a;
+}
 #photos img {
     width: 100%;
     line-height: 1em;
@@ -286,6 +288,7 @@ h3 {
 
 #photos {
     line-height: 0;
+
 }
 
 
