@@ -305,6 +305,14 @@ h3 {
     color: #3a3a3a;
 }
 
+/* Media query: larger or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -337,6 +345,7 @@ h3 {
         font-size: 200%;
         line-height: 75px;
         margin: 0 0.5rem;
+
     }
 
     /* Main content */
@@ -350,11 +359,20 @@ h3 {
         width: 300px;
         right: 50px;
     }
+
+    /* Gallery */
+    #photos {
+        column-count: 3;
+    }
 }
 
 /* Media query: screens of large devices (992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
+    }
+    /* Gallery */
+    #photos {
+        column-count: 4;
     }
 }
