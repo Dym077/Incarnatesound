@@ -15,16 +15,16 @@
 * Easy navigation and full responiveness with all devices.
 
 ## User Stories
-* First time user
+### First time user
 - A first time user should get all necessary info to make a decision if the sevices available on the site are sufficient and reliable and that he or she can get in touch, either to require further info or book a session. 
 - A first time user will feel confident with the navigation on the page and can easily acquire the material provided. 
 - A first time user will also be able to receive tips and tricks for their own projects, without utilizing the studio.
 - A first time user will be able to follow the links in the footer to hear sound clips, watch videos and find useful information related to music recording and production.
-* Returning user
+### Returning user
 - As a returning user You can receive valuable resources, both for Your own musical projects, as well as for Your instruments. 
 - A returning user can receive sound libraries from the studio, as well as music and sound production techniques via e-mail. 
 - As a returning user You can also follow the links in the footer to look for updates, listen to new music and find useful tips to boost Your own creativity.
-* Frequent user
+### Frequent user
 - A frequent user will be confident in finding all resources and navigating the page, as well as being aware of any updates or changes. 
 - As a frequent user, You can engage in dialogue with the studio, sharing Your own successes and experiences. 
 - A frequent user can sign up for a weekly newsletter with exclusive tips and tricks in recording music and sounds, as well as recommendations to other sources of information.
@@ -35,11 +35,11 @@
 
 ### Choice of colours
 
-- A careful palette of colours have been used to provide maximum accessibility, while maintaining the professional feel of the website. The user can enjoy an experience which is smooth on the eye and also clearly displays the message of the site. On the landing page, both green and red are used as background colours for the sections with text. The green resembles the soothing feeling You get when accomplishing Your goal, as well as indicating the project has been "greenlit". The red is a good complement to the green, and indicate both importance and a bit of urgency. It also suits the background well, given a slight transparant character.
+- A careful palette of colours have been used to provide maximum accessibility, while maintaining the professional feel of the website. The user can enjoy an experience which is smooth on the eye and also clearly displays the message of the site. On the landing page, both green and red are used as background colours for the sections with text. The green resembles the soothing feeling You get when accomplishing Your goal, as well as indicating the project has been "greenlit". The red is a good complement to the green, and indicate both importance and a bit of urgency. It also suits the background well, given a slightly transparant character.
 
 ### Choice of fonts
 
-- The site utilizes some well known sans-serif fontss. The choice of these fonts was based on the goal to provide maximum readability and a professional feel. More ecclectic fonts may sometimes confuse a user or provide a less serious feel. Fonts such as 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva and Verdana, sans-serif, are fonts which are very easily accessible and translates well on most devices and screens. 
+- The site utilizes some well known sans-serif fonts. The choice of these fonts was based on the goal to provide maximum readability and a professional feel - more ecclectic fonts may sometimes confuse a user or provide a less serious feel. Fonts such as 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva and Verdana, sans-serif, are fonts which are very easily accessible and translates well on most devices and screens. 
 
 ## Wireframes
 
@@ -49,35 +49,35 @@
 ![About](https://github.com/Dym077/Incarnatesound/assets/147504788/782ba312-19cf-4290-b359-ab8f0065fea5)
 ![Contact](https://github.com/Dym077/Incarnatesound/assets/147504788/45ca6b83-3825-4891-afe6-e088efb50bec)
 
-The wireframes from paper:
+- The wireframes from paper:
 ![Alt text](assets/images/home_pen.jpg)
 ![Alt text](assets/images/about_pen.jpg)
 ![Alt text](assets/images/contact_pen.jpg)
 ## Features
 
-* Navigation
+### Navigation
 
-* Landing page
+#### Landing page
 - The landing page displays a panorama of the studio in a dim light, which provides an inspiring and welcoming feeling to the user. 
 
 ![Landing Page Image](assets/images/landingpage.png)
-* About section
+#### About section
 - The About section is separated in two different sections:
 - About Us, which gives a brief history of how the company was founded, as well as the location of the studio and the company's vision.
 - The studio and the tools which are available to the client. 
 
 ![About Page Image](assets/images/aboutpage.png)
-* Gallery section
+#### Gallery section
 - The gallery section displays the studio layout and the instruments and tools available.
 - The gallery is displayed in columns which will respond to the screen size of the device used. 
 
 ![Gallery Page Image](assets/images/gallery_page.png)
 
-* Contact form section
+#### Contact form section
 - This section provdes an easy-to-fill-in form for the user to get in touch with the company. The user can choose either to receive information about the studio or to reach out to book a session or both. 
 ![Contact Form Section](assets/images/contactpage.png)
 
-* Footer
+#### Footer
 - The footer houses the social media links where the user can interact with the studio. The links available are for Facebook, Bandcamp, Youtube and Soundcloud and are opened in new tabs.
 ![Footer Image](assets/images/footer.png)
 ### Features left to implement
@@ -85,9 +85,9 @@ The wireframes from paper:
 
 ## Testing
 ### Validator testing
-* HTML
+#### HTML
 - No errors were returned when running the code through the W3C Markup Validator.
-* CSS
+#### CSS
 - No errors were returned when running the code through the W3C CSS Validator. 
 - Accessibility
 The site achieved a Lighthouse accessibility score of 100% which assures that the choice of colours and fonts are easy to read and access. 
@@ -115,7 +115,7 @@ The following apps were also utilized to check the website on different screen-s
 #### 
 * Fixed a problem where the margin of the header didn't adjust due to duplicats of the h2 element where values were overridden. 
 ### Known bugs
-* The text "Get in touch" seems to be invisible on the "submit"-button with some iPhone models, as iPhone 11 Pro.
+* The text "Get in touch" seems to be invisible on the "submit"-button with some iPhone models, such as iPhone 11 Pro.
  # Techologies used
  
  ## Languages
@@ -130,7 +130,9 @@ The following apps were also utilized to check the website on different screen-s
 - [GitHub](https://github.com/) - For hosting and version control.
 - [Google Fonts](https://fonts.google.com/) - Used to import additional fonts to the project.
 - [TinyPNG](https://tinypng.com/) - To compress image files to reduce file size without losing quality.
+- [IloveIMG](https://www.iloveimg.com/) - Used to resize, convert and compress image files.
 - [W3C](https://www.w3.org/) - Used for HTML & CSS Validation.
+- [Convertio](https://convertio.co/jpg-webp/) - Used for conversion of images to webp format.
 
 # Deployment
 This project was deployed using GitHub. To access the website through GitHub, follow these steps:
