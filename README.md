@@ -11,7 +11,7 @@
 * An informative website, providing all necessary information about the studio including location, services, contact details and pricing.
 * Links to social media platforms.
 * Complete list of both outboard gear and virtual tools.
-* Coffee is included in all booked sessions.
+* Mentoring is included in all booked sessions.
 * Easy navigation and full responiveness with all devices.
 
 ## User Stories
@@ -26,12 +26,12 @@
 - As a returning user You can also follow the links in the footer to look for updates, listen to new music and find useful tips to boost Your own creativity.
 ### Frequent user
 - A frequent user will be confident in finding all resources and navigating the page, as well as being aware of any updates or changes. 
-- As a frequent user, You can engage in dialogue with the studio, sharing Your own successes and experiences. 
+- As a frequent user, You can engage in dialogue with the studio, receiving personal mentoring and sharing Your own successes and experiences. 
 - A frequent user can sign up for a weekly newsletter with exclusive tips and tricks in recording music and sounds, as well as recommendations to other sources of information.
   
 ## Design 
 
-- The design of the website has the goal to inspire the user to be creative with their craft. The visitor should feel that the clean look and clear messages on the site are inviting and friendly, as well as professional. As a working or aspiring musician, the user should feel that one is welcomed into an environment that lets You create freely and comfortably. 
+- The design of the website has the goal to ensure the user that You have arrived to a professional site. The visitor should feel that the clean look and clear messages on the site are inviting and friendly, as well as being serious. As a working or aspiring musician, the user should feel that one is welcomed into an environment that lets You create freely and comfortably. 
 
 ### Choice of colours
 
@@ -39,7 +39,7 @@
 
 ### Choice of fonts
 
-- The site utilizes some well known sans-serif fonts. The choice of these fonts was based on the goal to provide maximum readability and a professional feel - more ecclectic fonts may sometimes confuse a user or provide a less serious feel. Fonts such as 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva and Verdana, sans-serif, are fonts which are very easily accessible and translates well on most devices and screens. 
+- The site utilizes some well known Lucida sans-serif fonts. The choice of these fonts was based on the goal to provide maximum readability and a professional feel - more ecclectic fonts may sometimes confuse a user or provide a less serious feel. Fonts such as 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva and Verdana, sans-serif, are fonts which are very easily accessible and translates well on most devices and screens. 
 
 ## Wireframes
 
@@ -81,7 +81,7 @@
 - The footer houses the social media links where the user can interact with the studio. The links available are for Facebook, Bandcamp, Youtube and Soundcloud and are opened in new tabs.
 ![Footer Image](assets/images/footer.png)
 #### Features left to implement
-- The landing page should employ a larger sub-heading in future deployments. 
+- The landing page should employ a larger and more confident sub-heading in future deployments. 
 ## Testing
 ### Validator testing
 #### HTML
