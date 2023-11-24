@@ -151,6 +151,7 @@ The following web pages were visited for inspiration and tips:
 - [Danmalschmusic.com](https://www.danmalschmusic.com/?gclid=CjwKCAiAu9yqBhBmEiwAHTx5pzDS6S-EzszcWTksEHfduZj_oMMiEPm-OADPqgFWfgN_G9aJCcqsChoCrukQAvD_BwE)
 - [Soundmine Recording Studio](https://www.soundminerecordingstudio.com/about.html)
 - [Nicelabs](https://www.nicelabs.at/)
+- The Love Running project by Code Institute was a great source for learning, tips and tricks.
 ## Media
 - All visual media was from the creator's private image library.
 ## Resources
