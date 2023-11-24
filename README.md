@@ -80,6 +80,8 @@
 #### Footer
 - The footer houses the social media links where the user can interact with the studio. The links available are for Facebook, Bandcamp, Youtube and Soundcloud and are opened in new tabs.
 ![Footer Image](assets/images/footer.png)
+#### Features left to implement
+- The landing page should employ a larger sub-heading in future deployments. 
 ## Testing
 ### Validator testing
 #### HTML
